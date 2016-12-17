@@ -1,4 +1,10 @@
-// MultiMethod.h
+//============================================================================
+// Name        : MultiMethod.h
+// Date        : 17.12.2016
+// Author      : Andrey Popov
+// Copyright   : All rights reserved
+//============================================================================
+
 #ifndef _MULTI_METHOD_H_
 #define _MULTI_METHOD_H_
 

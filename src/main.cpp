@@ -1,4 +1,10 @@
-// main.cpp
+//============================================================================
+// Name        : main.cpp
+// Date        : 17.12.2016
+// Author      : Andrey Popov
+// Copyright   : All rights reserved
+//============================================================================
+
 #include "MultiMethod.h"
 #include <iostream>
 #include <memory>

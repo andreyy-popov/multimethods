@@ -1,4 +1,10 @@
-// TypeInfo.h
+//============================================================================
+// Name        : TypeInfo.h
+// Date        : 17.12.2016
+// Author      : Andrey Popov
+// Copyright   : All rights reserved
+//============================================================================
+
 #ifndef _TYPE_INFO_H_
 #define _TYPE_INFO_H_
 
