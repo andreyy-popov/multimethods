@@ -33,7 +33,7 @@ public:
     { return val; }
 };
 
-int main() {
+int main(int argc, char* argv[]) {
   // Мультиметод печати одного числа.
   MultiMethod<bool(Number)> print1;
   print1.Add<Real>(
